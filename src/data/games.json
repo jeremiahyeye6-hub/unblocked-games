@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=400&h=300&auto=format&fit=crop"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "An addictive puzzle game inspired by Tetris but in a hexagon.",
+    "category": "Arcade",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=400&h=300&auto=format&fit=crop"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "The classic snake game you know and love.",
+    "category": "Classic",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=400&h=300&auto=format&fit=crop"
+  },
+  {
+    "id": "breakout",
+    "title": "Breakout",
+    "description": "Classical brick breaker action.",
+    "category": "Arcade",
+    "url": "https://cs.stanford.edu/people/eroberts/courses/cs106a/chapters/graphics/Breakout.html",
+    "thumbnail": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=400&h=300&auto=format&fit=crop"
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "description": "Clear the grid without hitting any mines.",
+    "category": "Strategy",
+    "url": "https://minesweeper.online/game/180",
+    "thumbnail": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?q=80&w=400&h=300&auto=format&fit=crop"
+  }
+]
